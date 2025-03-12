@@ -2,13 +2,13 @@
 
 ```bash
 Welcome to my GitHub profile! I’m Davi Guerra, a passionate developer and avid gamer,
- dedicated to creating innovative and immersive gaming experiences. Actually working
- as a web developer, focusing in the development of new features with
- PHP, Angular, Javascript, Typescript, Symphony, Oracle PL/SQL, SQL, MongoDB.
+dedicated to creating innovative and immersive gaming experiences. Actually working
+as a web developer, focusing in the development of new features with
+PHP, Angular, Javascript, Typescript, Symphony, Oracle PL/SQL, SQL, MongoDB.
 I also specialize in game development, focusing on both technical
- and visual aspects to craft engaging projects.
+and visual aspects to craft engaging projects.
 My expertise spans multiple game engines, including
- Unity, Godot, Unreal, and Cocos Engine. 
+Unity, Godot, Unreal, and Cocos Engine. 
 ```
 
 ## 👨‍💻About Me
@@ -49,5 +49,5 @@ A fast-paced arcade game where players control a spaceship dodging falling aster
 
 Feel free to explore my repositories, contribute to projects, or contact me for collaborations! 
 
-- **LinkedIn**: [linkedin.com/in/daviguerra](https://www.linkedin.com/in/daviguerra)
+- **LinkedIn**: [linkedin.com/in/davi-guerra](https://www.linkedin.com/in/davi-guerra)
 - **Email**: [daviguerradonascimento@yahoo.com.br](mailto:daviguerradonascimento@yahoo.com.br)
