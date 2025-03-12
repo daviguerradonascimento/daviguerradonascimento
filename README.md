@@ -35,15 +35,6 @@ Unity, Godot, Unreal, and Cocos Engine.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## ✅ Open Source Projects
-
-Here are some of the projects I've worked on:
-
-### [Elemental Arena](https://github.com/daviguerra/elemental-arena)
-A tactical battle mini-game featuring a 6x6 grid-based arena, turn-based combat, and an elemental system. Players face off against AI-controlled opponents, utilizing strategic moves, attacks, and special abilities. The game includes features like AI decision-making and procedural level generation.
-
-### [Asteroid Dodge](https://github.com/daviguerra/asteroid-dodge)
-A fast-paced arcade game where players control a spaceship dodging falling asteroids. The game features dynamic difficulty adjustment, optimized performance for large numbers of asteroids, and smooth animations to enhance the player experience.
 
 ## 📞Get in Touch
 
