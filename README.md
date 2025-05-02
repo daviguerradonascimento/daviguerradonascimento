@@ -35,6 +35,7 @@ Unity, Godot, Unreal, and Cocos Engine.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/PHASER-358A91?style=for-the-badge&logo=phaser&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-8e44ad?style=for-the-badge&logo=pixijs&logoColor=white)
 
 ## 📞Get in Touch
 
